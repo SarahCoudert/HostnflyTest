@@ -12,13 +12,13 @@ Compute the amount that belongs to the insurance, to the assistance and to us.
 
 -------------
 
-	PROPRIO               CONDUCTEUR
+	 owner                  driver
 	   |                       |
 	reçoit 70%              paie 100%
 
                   30 AUTRES POURCENTS :
 
-	 LOUEUR             ASSURANCE          	AUTOROUTE
+	    us              insurance             roadside
 	    |                   |                   | 
-    Ce qui reste        50% des 30%          100cts/jours
+    Ce qui reste        50% des 30%         100cts/jours
 
